@@ -32,4 +32,3 @@
 | Waymo          | Chrysler Pacifica, Lexus RX450h, Toyota Prius     |
 | Wayve          | Renault Twizy                                     |
 | Yandex         | Toyota Prius                                      |
-|                |                                                   |
