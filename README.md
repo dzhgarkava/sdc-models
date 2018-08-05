@@ -1,4 +1,4 @@
-# sdc-models
+# Self-driving car models list (August 2018)
 
 | Company        | Car                                               |
 |----------------|---------------------------------------------------|
@@ -24,7 +24,7 @@
 | PlusAI         | Lincoln MKZ                                       |
 | PonyAI         | Lincoln MKZ                                       |
 | Renovo         | Chrysler Pacifica                                 |
-| Roadstar       | Roadstar                                          |
+| Roadstar       | Lincoln MKZ                                       |
 | TORC           | Lexus RX450h                                      |
 | Uber           | Volvo XC90, Ford Mondeo                           |
 | Udacity        | Lincoln MKZ                                       |
